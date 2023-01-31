@@ -1291,3 +1291,12 @@ input[type="text"] {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/*  custom css */
+
+.typewrite{
+  color: #fff;
+}
+.typewrite:hover{
+  color: #fff;
+}
