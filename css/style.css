@@ -690,6 +690,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0 auto 40px auto;
   position: relative;
   text-align: center;
+  
 }
 .chart span {
   position: absolute;
@@ -697,6 +698,7 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   margin-top: -30px;
   width: 100%;
+
 }
 .chart span strong {
   display: block;
@@ -705,6 +707,11 @@ h1, h2, h3, h4, h5, h6, figure {
   position: absolute;
   left: 0;
   top: 0;
+}
+.chart img {
+  max-width: 70%;
+  margin-top: 27px;
+  max-height: 70%;
 }
 
 .work {
@@ -1299,4 +1306,11 @@ input[type="text"] {
 }
 .typewrite:hover{
   color: #fff;
+}
+.download{
+  color: #fff;
+  background: #FF9000;
+}
+.contact{
+  background:#f8f8f8fc;;
 }
